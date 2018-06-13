@@ -1,0 +1,32 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "project template",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project template"
+  ],
+  "author": "jhzhang@bainainfo.com",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "browser-sync": "^2.8.2",
+    "del": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-copy": "1.1.0",
+    "gulp-css-base64": "^1.3.2",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-ruby-sass": "^3.0.0",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "mockjs": "^1.0.1-beta3",
+    "morgan": "^1.6.1"
+  }
+}
